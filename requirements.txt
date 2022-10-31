@@ -1,0 +1,8 @@
+epitran==1.24
+numpy==1.23.1
+pandas==1.4.3
+scikit_learn==1.1.3
+spacy==3.4.1
+spacy_transformers==1.1.8
+tqdm==4.64.0
+transformers==4.21.0
