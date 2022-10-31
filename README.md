@@ -6,9 +6,9 @@
 
 ## Deep Ritmo takes a list of words and creates a collection of embeddings for subwords in either xsampa format or IPA. The input words are weighted and encoded via a custom BERT model to create a rhythmic representation of the word. A LSH-based search engine is then able to extract the most similar words from the vocabulary based on a given input word.
 
-## Check out this [Jupyter notebook]() to see how the BERT model was trained.
+## Check out this [Jupyter notebook](https://github.com/s-cafferty-nlp/deep_ritmo/blob/main/deep_ritmo_trainer_BERT.ipynb) to see how the BERT model was trained.
 
-## Check out this [Jupyter notebook]() to see Deep Ritmo in action.
+## Check out this [Jupyter notebook](https://github.com/s-cafferty-nlp/deep_ritmo/blob/main/deep_ritmo.ipynb) to see Deep Ritmo in action.
 
 ```
 >>> import deep_ritmo
