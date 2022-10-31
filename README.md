@@ -22,7 +22,7 @@
 >>> R.query_all_vocab('vandalizar')
 
 [OUTPUT]
-0	escandalizar	0.971598
+0	escandalizar	  0.971598
 1	analizados	    0.962546
 2	analizada	    0.958395
 3	analizaban	    0.958255
